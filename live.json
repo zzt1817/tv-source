@@ -1,4 +1,4 @@
-央视频道,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
+央视频道,#genre#,-1#-1#null#null#starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}#null#0#-1#0
 
 CCTV1,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyabtg3Alhms7Ii4HtXw5N%2FgDy88UL5FMgCtyx%2Bl9WpuMp5Cw7lgbb9dRzxyYSeYVgmr%2B1qR%2F5Ngxhb5pKGQZKZ2w%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C00000001000000050000000000000152%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000252976_0%2CEND&GuardEncType=2
 
@@ -62,7 +62,7 @@ CCTV4美洲,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000
 电视指南,http://111.48.34.162/000000000000/PLTV/88888888/224/3221230492/1.m3u8
 
 
-卫视频道,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
+卫视频道,#genre#,-1#-1#null#null#starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}#null#0#-1#0
 凤凰中文,rtsp://111.48.34.138:1554/170000004112/HBGD1097583753909997568843788306#http://120.198.84.146:9901/tsfile/live/1053_1.m3u8
 凤凰资讯,http://111.48.34.173/000000000000/PLTV/88888888/224/3221230647/1.m3u8#rtsp://111.48.34.138:1554/170000004112/HBGD1097583896160083968342677179
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -147,7 +147,7 @@ CCTV4美洲,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000
 
 
 
-湖北频道,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
+湖北频道,#genre#,-1#-1#null#null#starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}#null#0#-1#0
 
 赤壁综合,https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-90d01dc5111710ab4196d08997323917
 
@@ -177,7 +177,7 @@ CCTV4美洲,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000
 
 
 
-少儿频道,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
+少儿频道,#genre#,-1#-1#null#null#starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}#null#0#-1#0
 
 金鹰卡通,http://111.48.34.175/000000000000/PLTV/88888888/224/3221230468/1.m3u8
 
@@ -193,7 +193,7 @@ CCTV14,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000362?r
 动漫秀场,rtsp://111.48.34.138:1554/170000004112/HBGD9805143433502638082196954568?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaZzE37K8eybisvXLR%2FWIN5Riq%2B94IqrF0y8yoml7O4IXKFWFdRSPH%2BoxyGUvSk12rQcd9QOchhdVLRJYAAW5yCY%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9805143433502638082196954568%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C495929190%2CEND&GuardEncType=2
 
 
-数字频道,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
+数字频道,#genre#,-1#-1#null#null#starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}#null#0#-1#0
 
 CHC家庭影院,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000522
 
@@ -243,7 +243,7 @@ CHC影迷电影,rtsp://111.48.34.138:1554/170000004112/9918000100000005000000000
 书画,http://111.48.34.236/000000000000/PLTV/88888888/224/3221230485/1.m3u8
 老故事,http://111.48.34.160/000000000000/PLTV/88888888/224/3221230539/1.m3u8
 
-网络频道,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}
+网络频道,#genre#,-1#-1#null#null#starttime={start|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'|Asia/Shanghai}#null#0#-1#0
 bestv小蜜蜂,http://111.48.34.176/000000000000/PLTV/88888888/224/3221230054/1.m3u8
 bestv小蜜蜂,http://111.48.34.182/000000000000/PLTV/88888888/224/3221230031/1.m3u8
 bestv恐怖电影,http://111.48.34.146/000000000000/PLTV/88888888/224/3221230640/1.m3u8
