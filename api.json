@@ -1,7 +1,7 @@
 {
-    "spider": "./spider.jar",
+    "spider": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/spider.jar",
 
-    "logo": "./logo.png",
+    "logo": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/logo.png",
     "sites": [
         {
             "key": "豆瓣",
@@ -30,36 +30,36 @@
         },
         
    
-        //{"key":"csp_BLSGod","name":"80S┃影视","type":3,"jar":"./xyq.jar","api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1},
-        //{"key": "csp_XYQHiker_修罗影视","name":"修罗┃影视","type":3,"jar":"./xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/哔嘀影视.json"},
-        //{"key":"csp_JianPian","name":"荐片┃影视","type":3,"jar":"./xyq.jar","api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-        //{"key":"csp_Ikanbot","name": "Ikanbot┃影视","type": 3,"jar":"./xyq.jar","api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"},
-        {"key": "csp_XYQHiker_农民影视","name":"农民┃影视","type":3,"jar":"./xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/农民影视.json"},
-        {"key": "csp_XYQHiker_骚火电影VIP","name": "骚火┃影视","type": 3,"jar":"./xyq.jar","api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/骚火电影VIP.json"},
-		//{"key": "csp_XYQHiker_低端影视","name":"低端┃影视","type":3,"jar":"./xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/低端影视.json"},
-		//{"key":"drpy_js_金牌","name":"金牌┃影视","type":3,"jar":"./xyq.jar","api":"./dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./dr_py/js/金牌影视.js"},
+        //{"key":"csp_BLSGod","name":"80S┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1},
+        //{"key": "csp_XYQHiker_修罗影视","name":"修罗┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/哔嘀影视.json"},
+        //{"key":"csp_JianPian","name":"荐片┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+        //{"key":"csp_Ikanbot","name": "Ikanbot┃影视","type": 3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"},
+        {"key": "csp_XYQHiker_农民影视","name":"农民┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/农民影视.json"},
+        {"key": "csp_XYQHiker_骚火电影VIP","name": "骚火┃影视","type": 3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/骚火电影VIP.json"},
+		//{"key": "csp_XYQHiker_低端影视","name":"低端┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/低端影视.json"},
+		//{"key":"drpy_js_金牌","name":"金牌┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dr_py/js/金牌影视.js"},
 		
-		//{"key":"天天","name":"天天┃影视","type":3,"jar":"./qj260410.jar","api":"csp_TTian","searchable":1,"quickSearch":1,"playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
+		//{"key":"天天","name":"天天┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/qj260410.jar","api":"csp_TTian","searchable":1,"quickSearch":1,"playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
 	    
-	    {"key":"大师兄","name":"大师兄┃影视","type":3,"jar":"./qj260410.jar","api":"csp_AppV6","searchable":1,"quickSearch":1,"playerType":2,"ext":"7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j18i3k1ih986k4hk42g7kh20364hl7h7j9h1278238lj7hkl1700h8j3i3h0k2387036ik1g7i1j96l65g7228h8l52765gg8kkk938k3hh261101j2j3h8565ghlj18l81kij653i6l0k991690j30j619k02jh780glk3h0li5j563624i394j30520k8l68j2j2h44g66l6310klk2745h5438i7063h10k65g2494464g31216k3ij9816965l9g0633k21595i865753g6973119hl70l594gi1i615k5319962645403142hkl6j664g4hi2i3g28hg91i6772gik1118kj34h7k3849i0ghililgig8j232lk06jkj486726291ih7792i4ki5060656231k8lk8954g7lj85748614g69liki40i5g52hh1976i6gigi9649641i5334425hli000hh41j056kji6j089lj7i8308i34kil4g9519ggj7801h4h006i998l1293k216846725kjk955985ikjilj3kj20h179llk1k184l51hi735k57jlj71318g526h8h4ii084g4263ig64ljh7626258gg42i2j65gii6i4077k2ihg28lhj7g7i80k3g000jh088gi3859626h57966ll6ggi2hiji66ij00h1622j6567497i3l78lk76642l72k0ihjgjh093109l733l2h29g61629j75kj559gk4g661j75859k661i61i7869851j9hhhh2g29hig0644gi032153k253kh3462i12277jii2345gi9395609khh81444843kgh4k9j949219j47i234k652l97120j362jg32lhj84g7k1kg06420hlg1l9j0kj3g1319kk8j04iigl76525l2j4887ih3kj9k756hjilh3326l300719kil6902j22h263jk72253069gi40976475h58371l973hhj0ihj5k7k7gk72k2lggh3k5jhj08593h3694j0l448259664jhi20jlk9j78giji654h526ihl3471i494l2l1i26kji351172i4590jk64i6jg4278gk0k46iik396j4ii619gi328971kk73739ki730gg84g0j5g6g2g135h1ki26hg69l459182248888568g0687l6i195426hi9k0100khk57g038i13gi2k28jg9972i42291563407129gj7308i85h1672ji5l861lj645917i256j256532994i87792g9ij17g208i63ggg20kk19g2i0j6h56154292li61iij8119hg59580g775hik1li7jj1k895j756gh6g44528297hi63i0142h87534i5g5349100ig42hl583k5j308i7l813l5196j75glkl241g144583l07237389h560jig2kk6g93kj513jlghi2198501l6g62hgl59042j3j80ik05093k02196k0h7g683k744i663g68lj35i4g3h47k4262hg49401911l4lhj5953922j7hggl3ijhjk8jk8560043803g5j61g14j9glhh292jh4l7gklhihj9473033g3l7h7870lhkh7l31597h543k1213g9l274810i821k391i8k25jk78l5g0j9l4k15240hlgi7h905j3l7l91k6j05g8g98l613g0j1440h8hl52786h4h9l8igg9k3j2h7ii60337l4i5j6kk318410j0g9k5li11hih372273k6l5hk9hh97348l41lk4487l1647g6i235g994k3710jl7l1l0g19l5ii21lk8h023j2ki6h31j6kg052lh03khj9790jiijiij881551l883423k2h673j6gi0i803k2531g5ig64ggj1996559169l89h8lgkg5979j5368h310i6621l10ikhj67hhl1j79g2kg4g3hi186434hj51494k202li774ik7hll3295k86j6gik0l681kk0195848j9hil34gh9gl7k6k973l0h5gj986kjhh70lg9743k8j9684l596l0g579j17iilh4h98glj55k20190i379406g2i56lij0h125j5877g581i30iilijk2k7hhkk775881hi795371i54i3266j0390j910803kl21hi1k629g252h292j74hk817l13lh852lg65l652kg469jgh0j667477443j75i4g9hkii2j1jj7ji770k5k8h24kj9lh03g17kigi0476640831jljkl9010gi4i35l7925j0l2lh9g0j3hjlkig0l169hj104gj9g76iji3i8ig038lh06j7792l853l551k9jjhh03h65j71gl2j369j3jili973505ki55078959h90h60605161jih00gih374i0i9662233h0g94gjh40342667512i018i424397ikh2lk533l42lh5l5k4h2ij919j7ljg3k1ik784241642g14i4h2l6g11103hi2gi397l3456i276818j02j9j202g202jgh0j5g15l9405l0h26l1j8h875lk23617359li434295j4kl92l73496li7i151l924j7il4kj484jlg93311jlkj159941i0h25i96i907i1kjh99ki5h22520j51lk0i6i84k749jh0j67ki22lhj5k93kjki8j30k54j0262h3j6849i6279264kj6k79ii74k25944004315168792g18k7hli907l7lig4765593j371g470822885855lj6jh2582331j22hg7kl6j5l1g11897i868k387536i823l03ig5ij279717l0h0hkljl29979k1597h40l666838j34kgli448j01illi598j74g1503ijhh3jj97i8ggij346034840hk1gl7i281ig979354751k186032j4j2ih1983h0j3hi3j3i2hg72i6klg06ji362ii4k81j6k7i014382l756963225l96l5695798g6igi8659g4jl116942ii1l594gil3k5j4j7ji7105"},
-	    {"key":"剧评","name":"剧评┃影视","type":3,"jar":"./qj260410.jar","api":"csp_Jpys","searchable":1,"quickSearch":1,"playerType":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
-	    //{"key":"永夜","name":"永夜┃影视","type":3,"jar":"./qj260410.jar","api":"csp_Xdai","searchable":1,"quickSearch":1,"playerType":2,"ext":"7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"},
-	    //{"key":"趣看","name":"趣看┃影视","type":3,"jar":"./qj260410.jar","api":"csp_Qiji","searchable":1,"quickSearch":1,"playerType":2,"ext":"7lj763gg402i79425l239ljhg55099jiljhhj910il877129534l1ik9l1184k401g9g54gk8j5i9097751kh28kh9l211l2lk696110l0ggjlk0339j25j768855553lkl8l1g5i05018428357244jh6l0607k61h5l55j20j0k996hl977gl13g"},
-	    {"key":"柠檬","name":"柠檬┃影视","type":3,"jar":"./qj260410.jar","api":"csp_Nmvod","searchable":1,"quickSearch":1,"playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
-	    {"key":"Dygang","name":"电影港┃影视","jar":"./qj260410.jar","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":0},
+	    {"key":"大师兄","name":"大师兄┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/qj260410.jar","api":"csp_AppV6","searchable":1,"quickSearch":1,"playerType":2,"ext":"7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j18i3k1ih986k4hk42g7kh20364hl7h7j9h1278238lj7hkl1700h8j3i3h0k2387036ik1g7i1j96l65g7228h8l52765gg8kkk938k3hh261101j2j3h8565ghlj18l81kij653i6l0k991690j30j619k02jh780glk3h0li5j563624i394j30520k8l68j2j2h44g66l6310klk2745h5438i7063h10k65g2494464g31216k3ij9816965l9g0633k21595i865753g6973119hl70l594gi1i615k5319962645403142hkl6j664g4hi2i3g28hg91i6772gik1118kj34h7k3849i0ghililgig8j232lk06jkj486726291ih7792i4ki5060656231k8lk8954g7lj85748614g69liki40i5g52hh1976i6gigi9649641i5334425hli000hh41j056kji6j089lj7i8308i34kil4g9519ggj7801h4h006i998l1293k216846725kjk955985ikjilj3kj20h179llk1k184l51hi735k57jlj71318g526h8h4ii084g4263ig64ljh7626258gg42i2j65gii6i4077k2ihg28lhj7g7i80k3g000jh088gi3859626h57966ll6ggi2hiji66ij00h1622j6567497i3l78lk76642l72k0ihjgjh093109l733l2h29g61629j75kj559gk4g661j75859k661i61i7869851j9hhhh2g29hig0644gi032153k253kh3462i12277jii2345gi9395609khh81444843kgh4k9j949219j47i234k652l97120j362jg32lhj84g7k1kg06420hlg1l9j0kj3g1319kk8j04iigl76525l2j4887ih3kj9k756hjilh3326l300719kil6902j22h263jk72253069gi40976475h58371l973hhj0ihj5k7k7gk72k2lggh3k5jhj08593h3694j0l448259664jhi20jlk9j78giji654h526ihl3471i494l2l1i26kji351172i4590jk64i6jg4278gk0k46iik396j4ii619gi328971kk73739ki730gg84g0j5g6g2g135h1ki26hg69l459182248888568g0687l6i195426hi9k0100khk57g038i13gi2k28jg9972i42291563407129gj7308i85h1672ji5l861lj645917i256j256532994i87792g9ij17g208i63ggg20kk19g2i0j6h56154292li61iij8119hg59580g775hik1li7jj1k895j756gh6g44528297hi63i0142h87534i5g5349100ig42hl583k5j308i7l813l5196j75glkl241g144583l07237389h560jig2kk6g93kj513jlghi2198501l6g62hgl59042j3j80ik05093k02196k0h7g683k744i663g68lj35i4g3h47k4262hg49401911l4lhj5953922j7hggl3ijhjk8jk8560043803g5j61g14j9glhh292jh4l7gklhihj9473033g3l7h7870lhkh7l31597h543k1213g9l274810i821k391i8k25jk78l5g0j9l4k15240hlgi7h905j3l7l91k6j05g8g98l613g0j1440h8hl52786h4h9l8igg9k3j2h7ii60337l4i5j6kk318410j0g9k5li11hih372273k6l5hk9hh97348l41lk4487l1647g6i235g994k3710jl7l1l0g19l5ii21lk8h023j2ki6h31j6kg052lh03khj9790jiijiij881551l883423k2h673j6gi0i803k2531g5ig64ggj1996559169l89h8lgkg5979j5368h310i6621l10ikhj67hhl1j79g2kg4g3hi186434hj51494k202li774ik7hll3295k86j6gik0l681kk0195848j9hil34gh9gl7k6k973l0h5gj986kjhh70lg9743k8j9684l596l0g579j17iilh4h98glj55k20190i379406g2i56lij0h125j5877g581i30iilijk2k7hhkk775881hi795371i54i3266j0390j910803kl21hi1k629g252h292j74hk817l13lh852lg65l652kg469jgh0j667477443j75i4g9hkii2j1jj7ji770k5k8h24kj9lh03g17kigi0476640831jljkl9010gi4i35l7925j0l2lh9g0j3hjlkig0l169hj104gj9g76iji3i8ig038lh06j7792l853l551k9jjhh03h65j71gl2j369j3jili973505ki55078959h90h60605161jih00gih374i0i9662233h0g94gjh40342667512i018i424397ikh2lk533l42lh5l5k4h2ij919j7ljg3k1ik784241642g14i4h2l6g11103hi2gi397l3456i276818j02j9j202g202jgh0j5g15l9405l0h26l1j8h875lk23617359li434295j4kl92l73496li7i151l924j7il4kj484jlg93311jlkj159941i0h25i96i907i1kjh99ki5h22520j51lk0i6i84k749jh0j67ki22lhj5k93kjki8j30k54j0262h3j6849i6279264kj6k79ii74k25944004315168792g18k7hli907l7lig4765593j371g470822885855lj6jh2582331j22hg7kl6j5l1g11897i868k387536i823l03ig5ij279717l0h0hkljl29979k1597h40l666838j34kgli448j01illi598j74g1503ijhh3jj97i8ggij346034840hk1gl7i281ig979354751k186032j4j2ih1983h0j3hi3j3i2hg72i6klg06ji362ii4k81j6k7i014382l756963225l96l5695798g6igi8659g4jl116942ii1l594gil3k5j4j7ji7105"},
+	    {"key":"剧评","name":"剧评┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/qj260410.jar","api":"csp_Jpys","searchable":1,"quickSearch":1,"playerType":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
+	    //{"key":"永夜","name":"永夜┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/qj260410.jar","api":"csp_Xdai","searchable":1,"quickSearch":1,"playerType":2,"ext":"7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"},
+	    //{"key":"趣看","name":"趣看┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/qj260410.jar","api":"csp_Qiji","searchable":1,"quickSearch":1,"playerType":2,"ext":"7lj763gg402i79425l239ljhg55099jiljhhj910il877129534l1ik9l1184k401g9g54gk8j5i9097751kh28kh9l211l2lk696110l0ggjlk0339j25j768855553lkl8l1g5i05018428357244jh6l0607k61h5l55j20j0k996hl977gl13g"},
+	    {"key":"柠檬","name":"柠檬┃影视","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/qj260410.jar","api":"csp_Nmvod","searchable":1,"quickSearch":1,"playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
+	    {"key":"Dygang","name":"电影港┃影视","jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/qj260410.jar","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":0},
 
 
 
         
-        //{"key": "金牌影视","name": "金牌┃影视","type": 3,"jar": "./dl260713.jar","api": "csp_Glod","searchable": 1,"quickSearch":1,"changeable": 1,"ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
+        //{"key": "金牌影视","name": "金牌┃影视","type": 3,"jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar","api": "csp_Glod","searchable": 1,"quickSearch":1,"changeable": 1,"ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
 
         
         {
             "key": "瓜子影视",
             "name": "瓜子┃影视",
             "type": 3,
-            "jar": "./dl260713.jar",
-            "api": "./api/瓜子影视.py",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/api/瓜子影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -70,7 +70,7 @@
             "key": "Xb6v",
             "name": "新6V┃影视",
             "type": 3,
-            "jar": "./dl260713.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
             "api": "csp_Xb6v",
             "searchable": 1,
             "filterable": 1
@@ -79,7 +79,7 @@
             "key": "热播影视",
             "name": "热播┃影视",
             "type": 3,
-            "jar": "./dl260713.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
             "api": "csp_AppRJ",
             "searchable": 1,
             "quickSearch": 1,
@@ -94,7 +94,7 @@
             "key": "王子",
             "name": "王子┃影视",
             "type": 3,
-            "jar": "./dl260713.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
             "api": "csp_AppGet",
             "searchable": 1,
             "quickSearch":1,
@@ -110,7 +110,7 @@
       "name": "哔嘀┃影视",
       "key": "Bidys",
       "type": 3,
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "api": "csp_BidysAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -121,7 +121,7 @@
       "name": "金牌┃影视",
       "key": "JinPai",
       "type": 3,
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "api": "csp_JinPaiAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -130,7 +130,7 @@
     {
       "name": "荐片┃影视",
       "key": "JPian",
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "type": 3,
       "api": "csp_JPianAmns",
       "searchable": 1,
@@ -139,14 +139,14 @@
       "ext": "JPian"
     },
         
-        {"key": "csp_XYQHiker_短剧五五","name":"五五┃短剧","jar":"./xyq.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/短剧五五.json"},
+        {"key": "csp_XYQHiker_短剧五五","name":"五五┃短剧","jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/短剧五五.json"},
         
         {
             "key": "星芽短剧",
             "name": "星芽┃短剧",
             "type": 3,
-            "jar": "./dl260713.jar",
-            "api": "./api/星芽短剧.py",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/api/星芽短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -157,7 +157,7 @@
             "key": "HeMa",
             "name": "盒马┃短剧",
             "type": 3,
-            "jar": "./dl260713.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
             "api": "csp_HeMa",
             "searchable": 1,
             "quickSearch": 1,
@@ -168,7 +168,7 @@
             "key": "七星短剧",
             "name": "七星┃短剧",
             "type": 3,
-            "jar": "./dl260618.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260618.jar",
             "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
             "searchable": 1,
             "changeable": 1,
@@ -180,7 +180,7 @@
             "key": "py_河马短剧",
             "name": "河马┃短剧",
             "type": 3,
-            "api": "./plugin/custom/py_河马短剧.py",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/plugin/custom/py_河马短剧.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -191,12 +191,12 @@
             "key": "✨天龙影院✨",
             "name": "天龙┃短剧",
             "type": 3,
-            "jar": "./duanju.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/duanju.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./plugin/duanju/天龙短剧.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/plugin/duanju/天龙短剧.json"
         },
         
         {
@@ -220,16 +220,16 @@
         },
         
 
-        {"key": "csp_XYQHiker_去看吧动漫","name":"去看吧┃动漫","type":3,"jar":"./xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/去看吧动漫.json"},
-        //{"key": "csp_XYQHiker_动漫巴士","name":"巴士┃动漫","type":3,"jar":"./xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/动漫巴士.json"},
-        {"key": "csp_XYQHiker_路漫漫","name":"路漫漫┃动漫","type":3,"jar":"./xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/路漫漫.json"},
-        {"key": "csp_XYQHiker_age动漫","name":"AGE┃动漫","type":3,"jar":"./xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/age动漫.json"},
+        {"key": "csp_XYQHiker_去看吧动漫","name":"去看吧┃动漫","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/去看吧动漫.json"},
+        //{"key": "csp_XYQHiker_动漫巴士","name":"巴士┃动漫","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/动漫巴士.json"},
+        {"key": "csp_XYQHiker_路漫漫","name":"路漫漫┃动漫","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/路漫漫.json"},
+        {"key": "csp_XYQHiker_age动漫","name":"AGE┃动漫","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/age动漫.json"},
         
         {
             "key": "曼波动漫",
             "name": "曼波┃动漫",
             "type": 3,
-            "jar": "./dl260713.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
             "searchable": 1,
             "api": "csp_AppGet",
             "ext": {
@@ -242,7 +242,7 @@
             "key": "咕咕动漫",
             "name": "咕咕┃动漫",
             "type": 3,
-            "jar": "./dl260713.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
             "searchable": 1,
             "api": "csp_AppGet",
             "ext": {
@@ -256,7 +256,7 @@
       "name": "瓜子┃体育",
       "key": "GuaziLive",
       "type": 3,
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "api": "csp_GuaziLiveAmns",
       "searchable": 0,
       "quickSearch": 0,
@@ -267,7 +267,7 @@
       "name": "飞球┃体育",
       "key": "FeiqLive",
       "type": 3,
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "api": "csp_FeiqLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -277,7 +277,7 @@
       "name": "88┃体育",
       "key": "BbkqLive",
       "type": 3,
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "api": "csp_BbkqLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -288,7 +288,7 @@
       "name": "咖啡┃体育",
       "key": "KafLive",
       "type": 3,
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "api": "csp_KafLiveAmns",
       "searchable": 0,
       "quickSearch": 0,
@@ -311,7 +311,7 @@
             }
         },
         
-        {"key":"csp_Djuu","name":"DJ悠悠┃音乐","type":3,"jar":"./xyq.jar","api":"csp_Djuu","filterable":1,"quickSearch":1,"searchable":1},
+        {"key":"csp_Djuu","name":"DJ悠悠┃音乐","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_Djuu","filterable":1,"quickSearch":1,"searchable":1},
         
         
         //爱听音乐
@@ -319,7 +319,7 @@
             "key": "蜻蜓FM",
             "name": "蜻蜓┃广播",
             "type": 3,
-            "jar": "./dl260713.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
             "api": "csp_QingTing",
             "searchable": 1,
             "ext": ""
@@ -329,7 +329,7 @@
       "name": "aw┃听书",
       "key": "TSaowu",
       "type": 3,
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "api": "csp_TSaowuAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -339,7 +339,7 @@
       "name": "ty┃听书",
       "key": "TSty",
       "type": 3,
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "api": "csp_TStyAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -349,19 +349,19 @@
       "name": "tzg┃听书",
       "key": "TStzg",
       "type": 3,
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "api": "csp_TStzgAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
     },
         
-        {"key": "csp_XYQHiker_戏曲多多","name":"戏曲多多","type":3,"jar":"./xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/戏曲多多.json"},
+        {"key": "csp_XYQHiker_戏曲多多","name":"戏曲多多","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/戏曲多多.json"},
         {
             "key": "xiqu",
             "name": "戏曲大全",
             "type": 3,
-            "jar": "./dl260713.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
             "api": "csp_Xiqu",
             "searchable":1,
             "quickSearch":1,
@@ -372,7 +372,7 @@
       "name": "bili┃直播",
       "key": "Bilive",
       "type": 3,
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "api": "csp_BiliveAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -386,7 +386,7 @@
       "name": "虎牙┃直播",
       "key": "HuyaLive",
       "type": 3,
-      "jar": "./aw.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/aw.jar",
       "api": "csp_HuyaLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -400,7 +400,7 @@
             "key": "Douyu",
             "name": "斗鱼┃直播",
             "type": 3,
-            "jar": "./dl260713.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
             "api": "csp_Douyu",
             "searchable": 0,
             "quickSearch": 0,
@@ -416,7 +416,7 @@
             "key": "KuaiShou",
             "name": "快手┃直播",
             "type": 3,
-            "jar": "./dl260713.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
             "api": "csp_KuaiShou",
             "changeable": 0,
             "filterable": 1,
@@ -430,7 +430,7 @@
             "key": "BiliLive",
             "name": "哔哩┃直播",
             "type": 3,
-            "jar": "./dl260713.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/dl260713.jar",
             "api": "csp_BiliLive",
             "searchable": 0,
             "quickSearch": 0,
@@ -443,16 +443,16 @@
             }
         },
         
-		{"key": "csp_XYQHiker_兔小贝","name":"兔小贝┃教育","type":3,"jar":"./xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/兔小贝.json"},
-		{"key": "csp_XYQHiker_兔小贝2","name":"兔小贝2┃教育","type":3,"jar":"./xyq.jar","api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/兔小贝2.json"},
+		{"key": "csp_XYQHiker_兔小贝","name":"兔小贝┃教育","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/兔小贝.json"},
+		{"key": "csp_XYQHiker_兔小贝2","name":"兔小贝2┃教育","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/兔小贝2.json"},
         
-        //{"key": "csp_XYQHiker_播视童趣","name":"播视童趣┃教育","type":3,"jar":"./xyq.jar","api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/播视童趣.json"},
+        //{"key": "csp_XYQHiker_播视童趣","name":"播视童趣┃教育","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/xyq.jar","api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/XYQHiker/播视童趣.json"},
         
         {
       "key": "少儿教育",
       "name": "少儿┃教育",
       "type": 3,
-      "jar":"./fan.jar",
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/fan.jar",
       "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
@@ -469,7 +469,7 @@
       "key": "小学课堂",
       "name": "小学┃课堂",
       "type": 3,
-      "jar":"./fan.jar",
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/fan.jar",
       "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
@@ -486,7 +486,7 @@
       "key": "初中课堂",
       "name": "初中┃课堂",
       "type": 3,
-      "jar":"./fan.jar",
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/fan.jar",
       "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
@@ -503,7 +503,7 @@
       "key": "高中教育",
       "name": "高中┃课堂",
       "type": 3,
-      "jar":"./fan.jar",
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/zzt1817/tv-source/main/gongdian/fan.jar",
       "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
