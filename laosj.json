@@ -3,7 +3,7 @@
   "wallpaper": "https://api.kdcc.cn",
   "sites": [
     {
-      "key": "site_1790985507319.2297",
+      "key": "site_1791028888984.7666",
       "name": "麻豆",
       "type": 1,
       "api": "https://19q.cc/api.php/provide/vod",
@@ -12,7 +12,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.2622",
+      "key": "site_1791028888984.2341",
       "name": "越南",
       "type": 1,
       "api": "https://vnzyz.com/api.php/provide/vod",
@@ -21,7 +21,16 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.3982",
+      "key": "site_1791028888984.2893",
+      "name": "奥斯卡",
+      "type": 1,
+      "api": "https://aosikazy4.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.2961",
       "name": "91AV",
       "type": 1,
       "api": "https://91av.cyou/api.php/provide/vod",
@@ -30,7 +39,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.3396",
+      "key": "site_1791028888984.598",
       "name": "小鸡",
       "type": 1,
       "api": "https://api.xiaojizy.live/provide/vod",
@@ -39,7 +48,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.4458",
+      "key": "site_1791028888984.0642",
       "name": "大奶子",
       "type": 1,
       "api": "https://apidanaizi.com/api.php/provide/vod",
@@ -48,7 +57,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.4585",
+      "key": "site_1791028888984.9941",
       "name": "滴滴",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod",
@@ -57,7 +66,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.8826",
+      "key": "site_1791028888984.41",
       "name": "鸡坤",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod",
@@ -66,7 +75,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.5405",
+      "key": "site_1791028888984.7786",
       "name": "淫水机",
       "type": 1,
       "api": "https://www.xrbsp.com/api/json.php",
@@ -75,7 +84,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.17",
+      "key": "site_1791028888984.9878",
       "name": "香奶儿",
       "type": 1,
       "api": "https://www.gdlsp.com/api/json.php",
@@ -83,9 +92,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
-      "key": "site_1790985507319.3833",
+      "key": "site_1791028888984.48",
+      "name": "精品X",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.2078",
       "name": "老色",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod",
@@ -94,7 +111,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.5352",
+      "key": "site_1791028888984.763",
       "name": "番号",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod",
@@ -103,7 +120,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.9565",
+      "key": "site_1791028888984.8184",
       "name": "黄色仓库",
       "type": 1,
       "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json",
@@ -112,7 +129,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.1863",
+      "key": "site_1791028888984.9355",
       "name": "百花",
       "type": 1,
       "api": "https://bhziyuan.com/api.php/provide/vod/?ac=list",
@@ -120,9 +137,44 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
     {
-      "key": "site_1790985507319.5315",
+      "key": "site_1791028888984.8623",
+      "name": "优异",
+      "type": 1,
+      "api": "https://a.uezy.pw/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.731",
+      "name": "辣椒",
+      "type": 1,
+      "api": "http://lajiaozy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.9753",
+      "name": "白嫖",
+      "type": 1,
+      "api": "https://www.kxgav.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.6765",
+      "name": "美少女",
+      "type": 1,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.943",
       "name": "155",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod",
@@ -131,7 +183,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.369",
+      "key": "site_1791028888984.3682",
       "name": "杏吧",
       "type": 1,
       "api": "https://xingba111.com/api.php/provide/vod/?ac=list",
@@ -139,9 +191,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
     {
-      "key": "site_1790985507319.9148",
+      "key": "site_1791028888984.3333",
+      "name": "大地",
+      "type": 1,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.502",
       "name": "玉兔",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod",
@@ -149,9 +209,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
     {
-      "key": "site_1790985507319.9475",
+      "key": "site_1791028888984.5374",
+      "name": "AIvin",
+      "type": 1,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.554",
       "name": "湿乐园",
       "type": 1,
       "api": "https://xxavs.com/api.php/provide/vod",
@@ -160,7 +228,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.4731",
+      "key": "site_1791028888984.334",
       "name": "乐播",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod",
@@ -168,18 +236,35 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
     {
-      "key": "site_1790985507319.8435",
-      "name": "森林",
+      "key": "site_1791028888984.1716",
+      "name": "奶香香",
       "type": 1,
-      "api": "https://beiyong.slapibf.com/api.php/provide/vod/",
+      "api": "https://naixxzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.8855",
+      "key": "site_1791028888984.87",
+      "name": "黄AV",
+      "type": 1,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.1694",
+      "name": "森林",
+      "type": 1,
+      "api": "http://slapibf.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.3254",
       "name": "番茄",
       "type": 1,
       "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
@@ -187,9 +272,44 @@
       "quickSearch": 1,
       "filterable": 1
     },
- 
     {
-      "key": "site_1790985507319.5012",
+      "key": "site_1791028888984.1985",
+      "name": "souav",
+      "type": 1,
+      "api": "https://souavzy7.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.8877",
+      "name": "鲨鱼",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.7542",
+      "name": "91麻豆",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.9983",
+      "name": "幸资源",
+      "type": 1,
+      "api": "https://xzybb1.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.5068",
       "name": "CK百货",
       "type": 1,
       "api": "https://ckbh1.xyz/api.php/provide/vod/?ac=list",
@@ -198,7 +318,7 @@
       "filterable": 1
     },
     {
-      "key": "site_1790985507319.6912",
+      "key": "site_1791028888984.679",
       "name": "桃花",
       "type": 1,
       "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
@@ -206,9 +326,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
     {
-      "key": "site_1790985507319.4236",
+      "key": "site_1791028888984.0398",
+      "name": "丝袜",
+      "type": 1,
+      "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.3394",
       "name": "豆豆",
       "type": 1,
       "api": "https://doudouzy.com/api.php/provide/vod/?ac=list",
@@ -216,12 +344,38 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
-      "key": "site_1790985507319.2937",
+      "key": "site_1791028888984.4304",
+      "name": "色猫",
+      "type": 1,
+      "api": "http://caiji.semaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.5637",
       "name": "黑料X",
       "type": 1,
       "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.5334",
+      "name": "香蕉",
+      "type": 1,
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1791028888984.4736",
+      "name": "百万",
+      "type": 1,
+      "api": "https://api.bwzyz.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
