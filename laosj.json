@@ -173,7 +173,7 @@
       "key": "site_1790985507319.8435",
       "name": "森林",
       "type": 1,
-      "api": "http://slapibf.com/api.php/provide/vod",
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -216,15 +216,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "site_1790985507319.1536",
-      "name": "色猫",
-      "type": 1,
-      "api": "http://caiji.semaozy.net/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "site_1790985507319.2937",
       "name": "黑料X",
