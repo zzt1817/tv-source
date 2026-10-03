@@ -24,7 +24,7 @@
       "key": "site_1791028888984.2893",
       "name": "奥斯卡",
       "type": 1,
-      "api": "https://aosikazy4.com/api.php/provide/vod",
+      "api": "https://aosikazy1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
